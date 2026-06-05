@@ -1,17 +1,18 @@
 # 👋 Hello world, I'm CK!
-### I build full-stack web apps from the ground up.
 
-✉️ ckfuertes.work<!-- -->@<!-- -->gmail.com · 📞 0956-847-5548 · 💼 linkedin.com<!-- -->/<!-- -->in<!-- -->/<!-- -->ck-fuertes
+### I build full-stack apps and AI automation workflows that actually ship.
+
+✉️ ckfuertes.work@gmail.com · 📞 +63 956-847-5548 · 💼 linkedin.com/in/ck-fuertes · 🌐 kirkfolio.vercel.app
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a full-stack developer finishing my **BS in Information Technology**. My approach is simple: I love taking an idea and running with it, from conceptualization to deployment.
+I'm a Magna Cum Laude IT graduate. My approach is simple: I love taking an idea and running with it, from conceptualization to deployment.
 
-I believe technology is powerful when it **solves something real**. Through academic projects, hackathons, and an internship where I shipped code for real teams, I've learned that great software is built by people who **collaborate, adapt, and care about the details**.
+I believe technology is powerful when it **solves a real problem**. Through academic projects, hackathons, an internship where I shipped code for real teams, and now building AI automation for international clients, I've learned that great software is built by people who **collaborate, adapt, and care about the details**.
 
-I strive to write code that's **clean, thoughtful, and genuinely useful** for the people using it.
+I strive to build solutions that are **clean, thoughtful, and genuinely useful** for the people using them.
 
 ---
 
@@ -23,16 +24,18 @@ I strive to write code that's **clean, thoughtful, and genuinely useful** for th
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![ShadCN](https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-FF6D00?style=for-the-badge&logo=n8n&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Upstash](https://img.shields.io/badge/Upstash-00C7B7?style=for-the-badge&logo=upstash&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
 
@@ -48,19 +51,16 @@ I strive to write code that's **clean, thoughtful, and genuinely useful** for th
 ## 🧭 What's Next
 
 ### 🌱 Currently Learning
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Upstash](https://img.shields.io/badge/Upstash-00C7B7?style=flat-square&logo=upstash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-000000?style=flat-square&logo=openai&logoColor=white)
 
 ### 🚀 Future Plans
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 
 ### 💡 Always Curious About
 ![AI/ML](https://img.shields.io/badge/AI/ML-000000?style=flat-square&logo=openai&logoColor=white)
 ![System Architecture](https://img.shields.io/badge/System_Architecture-FF6C37?style=flat-square&logo=diagramsdotnet&logoColor=white)
-![Software Design](https://img.shields.io/badge/Software_Design-2D3748?style=flat-square&logo=uml&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-00C7B7?style=flat-square&logo=automation&logoColor=white)
