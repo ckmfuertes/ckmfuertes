@@ -40,6 +40,7 @@ I believe great software is built by people who **collaborate, adapt, and care a
 
 ### 🤖 AI & Cloud
 ![OpenAI APIs](https://img.shields.io/badge/OpenAI_APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini_API-1A73E8?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Microsoft Entra SSO](https://img.shields.io/badge/Microsoft_Entra_SSO-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
